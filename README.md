@@ -3,6 +3,8 @@ The CORONA VIRUS pandemic has had a significant impact on public health and has 
 
 To accomplish this task, I analyzed 16 questions to perform a detailed analysis. The objective is to find the answers by writing SQL queries.
 
+
+
 Questions include;
 
 Q1. Write a code to check NULL values
@@ -39,6 +41,8 @@ Q14. Find Country having highest number of the Confirmed case
 Q15. Find Country having lowest number of the death case
 
 Q16. Find top 5 countries having highest recovered case
+
+
 
 
 Description of each column in dataset include:
