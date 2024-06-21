@@ -26,8 +26,11 @@ Q16. Find top 5 countries having highest recovered case
 
 
 Description of each column in dataset include:
-Province: Geographic subdivision within a country/region.
-Country/Region: Geographic entity where data is recorded.
+
+. Province: Geographic subdivision within a country/region.
+
+. Country/Region: Geographic entity where data is recorded.
+
 Latitude: North-south position on Earth's surface.
 Longitude: East-west position on Earth's surface.
 Date: Recorded date of CORONA VIRUS data.
