@@ -14,7 +14,7 @@ Q7. Find most frequent value for confirmed, deaths, recovered each month
 Q8. Find minimum values for confirmed, deaths, recovered per year.
 Q9. Find maximum values of confirmed, deaths, recovered per year
 Q10. The total number of case of confirmed, deaths, recovered each month
- Q11. Check how corona virus spread out with respect to confirmed case
+Q11. Check how corona virus spread out with respect to confirmed case
 (Eg.: total confirmed cases, their average, variance & STDEV )
 Q12. Check how corona virus spread out with respect to death case per month
 (Eg.: total confirmed cases, their average, variance & STDEV )
@@ -25,7 +25,7 @@ Q15. Find Country having lowest number of the death case
 Q16. Find top 5 countries having highest recovered case
 
 
-# Description of each column in dataset include:
+Description of each column in dataset include:
 Province: Geographic subdivision within a country/region.
 Country/Region: Geographic entity where data is recorded.
 Latitude: North-south position on Earth's surface.
